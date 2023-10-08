@@ -1451,7 +1451,9 @@
       }
     },
     "layout_49": {
-      "label": "Open widget layout"
+      "label": "Open widget layout",
+      "content": {},
+      "order": []
     },
     "layout_50": {
       "type": "FIXED",
@@ -5092,7 +5094,7 @@
       "version": "1.12.0",
       "label": "Text 2",
       "config": {
-        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">This Web App was last updated 7/20/2023</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Please clear your </span><a href=\"https://gis.maricopa.gov/GIO/HistoricalAerial/EXB/BrowserCache.pdf\" target=\"_blank\" data-uniqueid=\"9a547b23_ddd2_2c7f_a38c_a5097413dfa9\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fgis.maricopa.gov%2FGIO%2FHistoricalAerial%2FEXB%2FBrowserCache.pdf%22%2C%22expression%22%3Anull%7D\" style=\"font-size: 18px;\">browser cache</a><span style=\"font-size: 18px;\"> before first use.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">View the </span><a href=\"https://gis.maricopa.gov/GIO/HistoricalAerial/EXB/help/\" target=\"_blank\" data-uniqueid=\"db166548_3503_5544_77b2_3c9385c5e572\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fgis.maricopa.gov%2FGIO%2FHistoricalAerial%2FEXB%2Fhelp%2F%22%2C%22expression%22%3Anull%7D\" style=\"font-size: 18px;\">User Guide</a><span style=\"font-size: 18px;\"> to learn how to use this Web App.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">The Maricopa County Office of Enterprise Technology does not guarantee the accuracy or completeness of the data and assumes no responsibility arising from the use of this information.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">It is ultimately the user's responsibility to verify accuracy prior to acceptance.</span><span style=\"color: var(--dark-800);\">﻿</span></p>",
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">This Web App was last updated 7/20/2023</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Please clear your </span><a href=\"https://daviddas2.github.io/HistoricalAerials/BrowserCache.pdf\" target=\"_blank\" data-uniqueid=\"320de0a3_e1e3_d9b4_a7fc_9a21fc55d53c\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fdaviddas2.github.io%2FHistoricalAerials%2FBrowserCache.pdf%22%2C%22expression%22%3Anull%7D\" style=\"font-size: 18px;\">browser cache</a><span style=\"font-size: 18px;\"> before first use.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">View the </span><a href=\"https://daviddas2.github.io/HistoricalAerials/help/\" target=\"_blank\" data-uniqueid=\"4320fa08_2eda_bb67_fcce_9e6d14c7de12\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fdaviddas2.github.io%2FHistoricalAerials%2Fhelp%2F%22%2C%22expression%22%3Anull%7D\" style=\"font-size: 18px;\">User Guide</a><span style=\"font-size: 18px;\"> to learn how to use this Web App.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">The Maricopa County Office of Enterprise Technology does not guarantee the accuracy or completeness of the data and assumes no responsibility arising from the use of this information.</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 18px;\">It is ultimately the user's responsibility to verify accuracy prior to acceptance.</span><span style=\"color: var(--dark-800);\">﻿</span></p>",
         "placeholder": "<p><span style=\"color: var(--dark-800);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p>",
         "style": {
           "verticalAlign": "start",
@@ -5174,7 +5176,7 @@
       "version": "1.12.0",
       "label": "Text 4",
       "config": {
-        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">View the </span><a href=\"https://gis.maricopa.gov/GIO/HistoricalAerial/EXB/help/\" target=\"_blank\" data-uniqueid=\"4408f135_ebad_4ccf_ced7_07c6e2a5ff62\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fgis.maricopa.gov%2FGIO%2FHistoricalAerial%2FEXB%2Fhelp%2F%22%2C%22expression%22%3Anull%7D\" style=\"font-size: 16px;\">User Guide</a><span style=\"font-size: 16px;\"> to learn how to use this Web App</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Download the User Guide as a </span><a href=\"https://gis.maricopa.gov/GIO/HistoricalAerial/EXB/UserGuide.pdf\" target=\"_blank\" data-uniqueid=\"97c46990_65eb_5ae2_93ec_6f601eefef8d\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fgis.maricopa.gov%2FGIO%2FHistoricalAerial%2FEXB%2FUserGuide.pdf%22%2C%22expression%22%3Anull%7D\" style=\"font-size: 16px;\">PDF</a></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><a href=\"https://gis.maricopa.gov/GIO/HistoricalAerial/EXB/WhatsNew.pdf\" target=\"_blank\" data-uniqueid=\"af6cf7b8_0de1_87e9_4ec8_1b0fa246943e\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fgis.maricopa.gov%2FGIO%2FHistoricalAerial%2FEXB%2FWhatsNew.pdf%22%2C%22expression%22%3Anull%7D\" style=\"font-size: 16px;\">What’s New</a></p>",
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\">View the </span><a href=\"https://daviddas2.github.io/HistoricalAerials/help/\" target=\"_blank\" data-uniqueid=\"539153db_85cd_01b7_9017_1ac03b6f27ae\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fdaviddas2.github.io%2FHistoricalAerials%2Fhelp%2F%22%2C%22expression%22%3Anull%7D\" style=\"font-size: 16px;\">User Guide</a><span style=\"font-size: 16px;\"> to learn how to use this Web App</span></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">Download the User Guide as a </span><a href=\"https://daviddas2.github.io/HistoricalAerials/UserGuide.pdf\" target=\"_blank\" data-uniqueid=\"74db89bd_b36d_a6a9_b875_c9ef0cf9fad0\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fdaviddas2.github.io%2FHistoricalAerials%2FUserGuide.pdf%22%2C%22expression%22%3Anull%7D\" style=\"font-size: 16px;\">PDF</a></p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><a href=\"https://daviddas2.github.io/HistoricalAerials/WhatsNew.pdf\" target=\"_blank\" data-uniqueid=\"b2e6e6b1_4aef_870e_cec6_083d6b0cf7c5\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22https%3A%2F%2Fdaviddas2.github.io%2FHistoricalAerials%2FWhatsNew.pdf%22%2C%22expression%22%3Anull%7D\" style=\"font-size: 16px;\">What’s New</a></p>",
         "placeholder": "<p><span style=\"color: var(--dark-800);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span></p>",
         "style": {
           "verticalAlign": "start",
@@ -6561,7 +6563,7 @@
       "home": []
     }
   ],
-  "timestamp": 1694719166154,
+  "timestamp": 1696793621875,
   "header": {
     "layout": {
       "LARGE": "layout_31"
@@ -6576,10 +6578,7 @@
     "portalUrl": "https://maricopa.maps.arcgis.com"
   },
   "sharedThemeVariables": {
-    "header": {
-      "bg": "#132048",
-      "color": "#ffffff"
-    },
+    "header": {},
     "body": {
       "link": "#006eb5"
     },
